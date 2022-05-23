@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Added in IntelliJ");
+        System.out.println("Added in IntelliJ");     
+	System.out.println("Comment from terminal");
     }
 }
